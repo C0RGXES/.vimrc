@@ -8,3 +8,4 @@ set number
 
 syntax on
 colorscheme monokai
+
